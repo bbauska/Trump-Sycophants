@@ -1,5 +1,6 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of trump-sycophants.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+# TRUMP-SYCOPHANTS
 <h1>First off, Just because your rich, it doesn't make you smart!</h1>
 <h1>These 63 Billionaires Who Bankrolled Trump All the Way to Insurrection Have 'No Right 
 to Feel Shocked'</h1>
