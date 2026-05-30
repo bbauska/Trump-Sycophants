@@ -6,10 +6,62 @@
 to Feel Shocked'</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Politicians who suck Trump's Kunt and Asshole</p>
+<p>House and Senate Republicans have also faced scrutiny for prioritizing fealty to the president, with some lawmakers going as far as proposing legislation to add Trump's portrait to the $500 bill, rename federal property in his honor, or make his birthday a federal holiday.</p>
+<p>An analysis of footage from Donald Trump’s Cabinet meetings has revealed which of his underlings works hardest to convince the president he really is the fairest of them all.</p>
+
+<p>“On average, at least one of every six sentences either flattered Mr Trump, gave him credit or criticized his political opponents,” The New York Times found after digging through more than 12 hours of video from meetings of the country’s most powerful public officials. “Many of these statements are exaggerated or not factually accurate.”</p>
+
+<p>Topping the list is Secretary of State Marco Rubio, who, the Times revealed, “both spoke and flattered the president the most” throughout the 12 hours of analyzed footage. The newspaper helpfully included some extracts from the meetings to give a flavor of his comments.</p>
+
+<p>“There’s only one leader in the world that’s capable of bringing the two sides to a table, and that’s our president, the president of the United States, President Trump,” Rubio said of Trump’s efforts on the Russia-Ukraine War. “The only chance we have for peace is through the president’s leadership.”</p>
+
+<p>Trump retook the White House last year after pledging to bring an end to the Russia-Ukraine war on “day one” of his second presidency. He blamed the war largely on his predecessor, President Joe Biden. It is now day 492 of Trump’s second term, with no peace deal in sight.</p>
+
+<p>Rubio has offered much the same assessment of Trump as the “only leader in the world that can help end it” of the Israel-Hamas conflict and the civil war in Sudan. The Israel-Hamas conflict remains subject to a shaky ceasefire that Israeli forces have been repeatedly accused of violating. The Sudanese civil war remains as ongoing as it was more than three years ago.</p>
+
+<p>The fact that Rubio has emerged as one of the most successful members of Trump’s Cabinet may not be a coincidence.</p>
+
+<p>He’s come a long way since 2016, when Trump dubbed him “Little Marco,” in a jibe about Rubio’s height. Rubio has now presided over a sweeping reorganization of foreign policy and dismantled the U.S. Agency for International Development, while helping steer Trump’s lightning invasion of Venezuela and war with Iran.</p>
+
+<p>He’s also become the only official since Henry Kissinger to hold the post of secretary of state and national security adviser. Trump has even joked he might make Rubio, who is of Cuban heritage, the president of Cuba if his administration topples the communist island nation’s regime.</p>
+
+<p>That success has buoyed Rubio in the polls. A survey released earlier this month put him at 45.4 percent among Republican voters for the 2028 nomination—comfortably ahead of the previous favorite, Vice President JD Vance at just 29.6 percent, and Florida Governor Ron DeSantis at 11.2 percent.</p>
+
+<p>Rubio has nevertheless been coy about his prospects. “If JD Vance runs for president, he’s going to be our nominee, and I’ll be one of the first people to support him,” he told Vanity Fair in December. A touching display of loyalty, quite possibly calibrated for an audience of one.</p>
+
+<p>Other front-runners in the Times’ analysis include Treasury Secretary Scott Bessent, who credits Trump with having “saved this country by making it the best place in the world to do business again,” and Defense Secretary Pete Hegseth, who said of Trump’s Venezuela operation in January that “no other president would have been willing to empower those warriors that way to be that effective.”</p>
+
+<p>“Notably, some of these talking points are traceable to Mr. Trump himself,” the newspaper pointed out.</p>
+
+<p>The Daily Beast contacted the White House and State Department for comment on this story.</p>
+
+<p>“President Trump has assembled the most talented Cabinet in history,” White House spokeswoman Allison Schuster said. “Unlike previous administrations, the President has opened nearly all of his Cabinet meetings to the press, allowing his talented team to highlight the exhaustive list of accomplishments they have delivered on behalf of the American people to Make America Great Again.”</p>
+
 <ul>
   <li>Tim Burchett, TN Congressman (House of Representatives)</li>
   <li>Gregg Abbott, TX Governer</li>
-  <li></li>
+  <li>Marco Rubio</li>
+  <li>JD Vance</li>
+  <li>Pete Hegseth (Secretary of Defense Nominee): A former Fox News host who frequently used his media 
+  platform to offer unwavering praise and defend Trump’s most controversial decisions, which directly 
+  elevated him into consideration for the Pentagon's top job.</li>
+  <li>Scott Bessent</li>
+  <li>Mike Johnson</li>
+  <li>Elise Stefanik (UN Ambassador Nominee): Originally a moderate New York Republican who kept her distance 
+  from Trump in 2016. She later remade herself into one of his fiercest defenders in Congress, using high-
+  profile hearings to boost her standing with him.</li>
+  <li>Jim Jordan (US Representative, Ohio): One of Trump's most aggressive congressional defenders. He led various committee investigations targeting Trump's political opponents and prosecutors while echoing the president's rhetoric nearly verbatim</li>
+  <li>Marjorie Taylor Greene (US Representative, Georgia): Tied her entire political brand to absolute loyalty to Trump, defending him through every legal challenge and attacking any Republican who steps out of line.</li>
+  <li>Greg Steube & Paul Gosar (US Representatives): Frequently mocked by critics for introducing sycophantic legislation, such as Steube's proposal to rename the U.S. coastal economic zone after Trump, and Gosar's bill to print $500 bills featuring Trump’s portrait</li>
+<li>Byron Donalds (US Representative, Florida): A frequent surrogate on cable news who aggressively defends Trump's policies, positioning himself for a Trump-backed gubernatorial run in Florida.</li>
+<li>In West Virginia, the House of Delegates is considering renaming the state’s highest peak, currently known as Spruce Knob, to “Trump Mountain.” (Remember when Trump claimed Democrats would rename Pennsylvania if he lost? Turns out that was probably a projection. See also: Gulf of Mexico, Denali.)</li>
+<li>In Florida, State Rep. Danny Nix Jr. has proposed renaming the stretch of U.S. Route 98 that passes by Mar-a-Lago to “President Donald J. Trump Boulevard.” If approved, it would be the second stretch of asphalt bearing Trump’s name: The state has a “President Donald J. Trump Avenue” in the Miami-Dade area, which may lead to some confusion.</li>
+<li>In June 2024, before Trump had even been elected, Rep. Greg Steube of Florida attempted to rename the maritime area that extends 200 miles off the U.S. coast to the “Donald John Trump Exclusive Economic Zone of the United States.”</li>
+
+<li>That same month, Rep. Paul Gosar (R-Ariz.) introduced a bill requiring the Treasury to start printing $500 bills, each featuring a portrait of Trump. (Never mind the 1886 law that prohibits featuring living persons on money because we’re not a monarchy.)</li>
+
+<li>Other House reps have also proposed renaming Greenland “Red, White, And Blueland;” adding Trump to Mt. Rushmore; encouraging Trump “to acquire Greenland immediately;” authorizing Trump to “repurchase” the Panama canal; making it legal for Trump to seek a third term; and making Trump’s birthday a federal holiday.</li>
+
 </ul>
 
 <blockquote>
