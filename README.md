@@ -4,15 +4,18 @@
 <h1>First off, Just because your rich, it doesn't make you smart!</h1>
 <h2>These 63 Billionaires Who Bankrolled Trump All the Way to Insurrection Have 'No Right 
 to Feel Shocked'</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Prominent Billionaires Named in the Analysis
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The report called out several high-profile executives and industry magnates who ranked among the top contributors to the 
 Trump Victory Fund:
-Kelcy Lee Warren: Energy Transfer Partners pipeline magnate; donated over $2.2 million.
-Isaac Perlmutter: Retired CEO of Marvel Entertainment; donated over $1.8 million.
-Kenny Troutt: Telecommunications mogul; donated over $1.8 million.
-Robert Duggan: Biotech investor; donated over $1.6 million.
-Steve Wynn: Casino magnate; contributed over $1.5 million.
-Diane Hendricks: Owner of ABC Supply; donated over $1.1 million.
+	- Kelcy Lee Warren: Energy Transfer Partners pipeline magnate; donated over $2.2 million.
+	- Isaac Perlmutter: Retired CEO of Marvel Entertainment; donated over $1.8 million.
+	- Kenny Troutt: Telecommunications mogul; donated over $1.8 million.
+	- Robert Duggan: Biotech investor; donated over $1.6 million.
+	- Steve Wynn: Casino magnate; contributed over $1.5 million.
+	- Diane Hendricks: Owner of ABC Supply; donated over $1.1 million.
+
 Aftermath and Post-Insurrection Reactions
 Following the events at the Capitol, the public and media reaction from the donor class varied widely:
 Public Silence: The vast majority of the billionaires listed in the report chose to remain entirely silent or declined to 
@@ -21,7 +24,12 @@ Expressed Regret: A few notable exceptions publicly distanced themselves. For ex
 stated in media interviews, "I voted for him... Today I'm sorry I did that".
 Subsequent Re-alignment: While the 2021 insurrection caused a temporary chill among traditional corporate donors, many 
 prominent billionaires, venture capitalists, and tech figures ultimately re-aligned to bankroll subsequent campaign cycles.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>However, 1,000 National Park Service employees were recently fired as part of billionaire Elon 
+Musk and his DOGE bros’ plan to “eliminate government waste” under President Donald Trump’s 
+administration. Kristen Brengel, senior vice president of government affairs at the National 
+Parks Conservation Association, told AP that these cuts “are pushing an already overwhelmed 
+Park Service to its breaking point. And the consequences will be felt in our parks for years.”</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Politicians who suck Trump's Kunt and Asshole</p>
 <p>House and Senate Republicans have also faced scrutiny for prioritizing fealty to the president, with some lawmakers going as far as proposing legislation to add Trump's portrait to the $500 bill, rename federal property in his honor, or make his birthday a federal holiday.</p>
