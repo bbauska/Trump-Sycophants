@@ -5,10 +5,11 @@
 <h2>These 63 Billionaires Who Bankrolled Trump All the Way to Insurrection Have 'No Right 
 to Feel Shocked'</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Prominent Billionaires Named in the Analysis
+<h3>Prominent Billionaires Named in the Analysis</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-The report called out several high-profile executives and industry magnates who ranked among the top contributors to the 
-Trump Victory Fund:
+<p>The report called out several high-profile executives and industry magnates who ranked among the top contributors to the 
+Trump Victory Fund:</p>
+
 	- Kelcy Lee Warren: Energy Transfer Partners pipeline magnate; donated over $2.2 million.
 	- Isaac Perlmutter: Retired CEO of Marvel Entertainment; donated over $1.8 million.
 	- Kenny Troutt: Telecommunications mogul; donated over $1.8 million.
