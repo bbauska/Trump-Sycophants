@@ -2,10 +2,16 @@
 
 ## Seven delusions plaguing the mind of the Trump base voter
 
-like fucking animals they shit on the rotunda (not bathroom) in the capital building.
-First, his “Make America Great Again” base is immovable. Trump knew that already on Jan. 23, 2016, when at a rally in Iowa, he famously stated, “I could stand in the middle of Fifth Avenue and shoot somebody, and I wouldn’t lose any voters. Okay?” This is, for example, why Trump can be so comfortable with careless conversations about the executive orders he wants to sign at the beginning of his second term, telling Sean Hannity that he would not be a dictator, “other than day one.”
+like fucking animals they shit on the rotunda (not bathroom) in the capital building. First, his 
+“Make America Great Again” base is immovable. Trump knew that already on Jan. 23, 2016, when at a 
+rally in Iowa, he famously stated, “I could stand in the middle of Fifth Avenue and shoot somebody, 
+and I wouldn’t lose any voters. Okay?” This is, for example, why Trump can be so comfortable with 
+careless conversations about the executive orders he wants to sign at the beginning of his second 
+term, telling Sean Hannity that he would not be a dictator, “other than day one.”
 
-Second, May poll data found that six out of ten Republicans still think the 2020 election was illegitimate. No wonder, since at his Iowa rally last Saturday, Trump repeatedly told the crowd that Democrats “rigged and stole the 2020 election.”
+Second, May poll data found that six out of ten Republicans still think the 2020 election was 
+illegitimate. No wonder, since at his Iowa rally last Saturday, Trump repeatedly told the crowd 
+that Democrats “rigged and stole the 2020 election.”
 
 This delusion has poisoned Trump voters’ minds in seven distinct ways.
 
@@ -46,34 +52,52 @@ In the mind of MAGA voters, the 2024 election might be characterized as “Trump
 and Biden is weak.” And Trump’s “dictator” remark only solidifies this popular strongman 
 image.
 
-Sen. Lindsey Graham (R-S.C.) piled on last Sunday, stating that if Biden is reelected, “then we won’t recognize America and the world will be truly on fire.”
+Sen. Lindsey Graham (R-S.C.) piled on last Sunday, stating that if Biden is reelected, “then we 
+won’t recognize America and the world will be truly on fire.”
 
 4. Whataboutism
 
-Comparing Trump to Biden and his son Hunter is a favorite MAGA mind game. For every controversial Trump action, there is a Biden equivalent that evens the playing field. Trump and his voters believe Biden has weaponized the government, most notably the Justice Department.
+Comparing Trump to Biden and his son Hunter is a favorite MAGA mind game. For every controversial 
+Trump action, there is a Biden equivalent that evens the playing field. Trump and his voters believe 
+Biden has weaponized the government, most notably the Justice Department.
 
-On Tuesday, when Hannity asked Trump if he would “use the government to go after people,” Trump retorted, “You mean like they’re using right now?” He thus expertly applied his “whataboutism” skill to justify his authoritarian-sounding second-term proposals as a means to saving America and democracy.   
+On Tuesday, when Hannity asked Trump if he would “use the government to go after people,” Trump 
+retorted, “You mean like they’re using right now?” He thus expertly applied his “whataboutism” 
+skill to justify his authoritarian-sounding second-term proposals as a means to saving America 
+and democracy.   
 
-This is not accidental. At his recent Iowa rally, Trump said, “Joe Biden is the destroyer of American democracy,” and Trump’s campaign distributed all-caps signs reading, “BIDEN ATTACKS DEMOCRACY.” The 2024 “whataboutism” battle is intentional, and it will be fierce.
+This is not accidental. At his recent Iowa rally, Trump said, “Joe Biden is the destroyer of 
+American democracy,” and Trump’s campaign distributed all-caps signs reading, “BIDEN ATTACKS 
+DEMOCRACY.” The 2024 “whataboutism” battle is intentional, and it will be fierce.
 
 5. Rural/blue-collar America gives its middle finger to governmental authority
 
-For Trump’s supporters, he personifies turning the tables on authority with a “stick it to the boss” mentality. Ironically, Trump vows to replace authority with more authority, loyal only to him.
+For Trump’s supporters, he personifies turning the tables on authority with a “stick it to the 
+boss” mentality. Ironically, Trump vows to replace authority with more authority, loyal only to 
+him.
 
 6. Trump represents an America First policy agenda that gets things done.
 
-In Iowa last week, as before, Trump bragged, “I kept Israel safe. I kept Ukraine safe. None of this stuff would have happened. And I kept the entire world safe….And as the 47th president…we will do it again.” And the crowds cheer wildly.
+In Iowa last week, as before, Trump bragged, “I kept Israel safe. I kept Ukraine safe. None of 
+this stuff would have happened. And I kept the entire world safe….And as the 47th president…we 
+will do it again.” And the crowds cheer wildly.
 
 
 7. Us-versus-Them mentality
 
-“We pledge to you that we will root out the communists, Marxists, fascists, and the radical left thugs that live like vermin within the confines of our country, that lie and steal and cheat on elections,” Trump said on Nov. 11 in New Hampshire.
+“We pledge to you that we will root out the communists, Marxists, fascists, and the radical left 
+thugs that live like vermin within the confines of our country, that lie and steal and cheat on 
+elections,” Trump said on Nov. 11 in New Hampshire.
 
-A Trump-loyal friend emailed, “I have heard many times on Fox that Washington is portraying Trump as a Hitler. No one is listening to reporters.”
+A Trump-loyal friend emailed, “I have heard many times on Fox that Washington is portraying Trump 
+as a Hitler. No one is listening to reporters.”
 
 Are MAGA voters deaf to Trump’s own words?
 
-Presumably, any non-Trump voter could be included in the “them” whom Trump described on Nov.11. Still, his followers believe the “Trump is a dictator talk” to be “patently absurd,” perpetrated by a liberal media freaking out over Trump potentially returning to power. Given the extreme us-versus-them polarization, it is doubtful that Trump’s “dictator” remarks will change any votes.
+Presumably, any non-Trump voter could be included in the “them” whom Trump described on Nov.11. 
+Still, his followers believe the “Trump is a dictator talk” to be “patently absurd,” perpetrated 
+by a liberal media freaking out over Trump potentially returning to power. Given the extreme 
+us-versus-them polarization, it is doubtful that Trump’s “dictator” remarks will change any votes.
 
 My safe 2024 prediction: The losing party will believe it is “the end of America.”
 
