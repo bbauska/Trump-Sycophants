@@ -1,5 +1,8 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of trump-sycophants.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+# TRUMPs-Rasputin
+### Who is trump's rasputin? Stephen Miller, Laura Loomer, Jared Kushner, Steve Bannon
+
 # TRUMP-SYCOPHANTS
 <h1>First off, Just because your rich, it doesn't make you smart!</h1>
 <h1>On the contrary, it makes you dangerous and STUPID!</h1>
