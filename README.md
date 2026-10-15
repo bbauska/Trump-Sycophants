@@ -4,6 +4,8 @@
 ### Who is trump's rasputin? Stephen Miller, Laura Loomer, Jared Kushner, Steve Bannon
 
 # TRUMP-SYCOPHANTS
+Those who think 'truth social' is The Truth.
+Pro-Putin. Fucking embarrassing.
 <h1>First off, Just because your rich, it doesn't make you smart!</h1>
 <h1>On the contrary, it makes you dangerous and STUPID!</h1>
 <h2>These 63 Billionaires Who Bankrolled Trump All the Way to Insurrection Have 'No Right 
