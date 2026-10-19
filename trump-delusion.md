@@ -1,8 +1,8 @@
 # delusional trump &amp; MAGA followers
 
-## Seven delusions plaguing the mind of the Trump base voter
+## Seven delusions plaguing the mind of the Trump|MAGA based voter
 
-like fucking animals they shit on the rotunda (not bathroom) in the capital building. First, his 
+Like fucking animals, they shit on the rotunda (not bathroom) in the capital building. First, his 
 “Make America Great Again” base is immovable. Trump knew that already on Jan. 23, 2016, when at a 
 rally in Iowa, he famously stated, “I could stand in the middle of Fifth Avenue and shoot somebody, 
 and I wouldn’t lose any voters. Okay?” This is, for example, why Trump can be so comfortable with 
