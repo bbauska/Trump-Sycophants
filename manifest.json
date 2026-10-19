@@ -1,7 +1,7 @@
 {
-  "name": "Trump Sycophants",
-  "short_name": "Trump Fans", 
-  "start_url": "/trump-sycophants.bauska.org",
+  "name": "Trump/MAGA Sycophants",
+  "short_name": "Sycophants", 
+  "start_url": "sycophants.bauska.org",
   "display": "standalone",
   "icons": [
     {
