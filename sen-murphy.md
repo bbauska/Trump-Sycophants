@@ -185,4 +185,19 @@ Senator Chris Murphy's takedown of Trump and his MAGA followers.
  THE WHITE HOUSE IS NOT A BUSINESS OPPORTUNITY. THE PRESIDENCY IS NOT A LICENSE TO STEAL FROM THE AMERICAN PEOPLE. THE GOVERNMENT OF THE UNITED 
  STATES DOESN'T EXIST TO MAKE DONALD TRUMP RICH. IT BELONGS TO THE AMERICAN PEOPLE. AND AFTER 500 DAYS OF CORR N CORRUPTION, DEMOCRATS AND REPUBLICANS 
  IN THI
- 
+
+
+ Chris Murphy, “Murphy: Six Weeks In, This White House Is On Its Way To Being The Most Corrupt In U.S. History”, YouTube, Mar 6, 2025, https://youtu.be/hycoCYenXls, accessed Mar 7, 2025
+
+Letter from Danielle Sessions to Pamela Bondi, Feb 10, 2025, https://www.cnn.com/2025/02/13/politics/read-acting-us-attorney-resignation-letter-doj-response/index.html, accessed March 11, 2025
+
+Ian Duncan, Hannah Natanson, Lori Aratani, Faiz Siddiqui, “FAA targeting Verizon contract in favor of Musk’s Starlink, sources say”, Washington Post, Feb 26, 2025, https://wapo.st/423kvC3, accessed Mar 10, 2025
+
+Leah Feiger, Louise Matsakis, Jake Lahut, “People Are Paying Millions to Dine With Donald Trump at Mar-a-Lago”, Wired, Mar 4, 2025, https://www.wired.com/story/people-paying-millions-donald-trump-mar-a-lago/, accessed Mar 10, 2025
+
+Olivia Beavers, Morgan Chalfant, Jordain Carney, Laura Kelly, “Five takeaways from final Senate Intel Russia report”, The Hill, Aug 18, 2020, https://thehill.com/policy/national-security/512613-five-takeaways-from-final-senate-intel-russia-report/, accessed Mar 12, 2025
+
+Ajit Maan, “Narrative Warfare”, Real Clear Defense, Feb 27, 2018, https://www.realcleardefense.com/articles/2018/02/27/narrative_warfare_113118.html, accessed Mar 12, 22025
+
+Paul Cobaugh, “Narrative Warfare”, Medium, Jan 21, 2019, https://medium.com/@paulcobaugh/narrative-warfare-14ab7fa7ef89, accessed Mar 12, 2025
+
