@@ -16,12 +16,12 @@ to Feel Shocked'</h2>
 <p>The report called out several high-profile executives and industry magnates who ranked among the top contributors to the 
 Trump Victory Fund:</p>
 
-	- Kelcy Lee Warren: Energy Transfer Partners pipeline magnate; donated over $2.2 million.
-	- Isaac Perlmutter: Retired CEO of Marvel Entertainment; donated over $1.8 million.
-	- Kenny Troutt: Telecommunications mogul; donated over $1.8 million.
-	- Robert Duggan: Biotech investor; donated over $1.6 million.
-	- Steve Wynn: Casino magnate; contributed over $1.5 million.
-	- Diane Hendricks: Owner of ABC Supply; donated over $1.1 million.
+  - Kelcy Lee Warren: Energy Transfer Partners pipeline magnate; donated over $2.2 million.
+  - Isaac Perlmutter: Retired CEO of Marvel Entertainment; donated over $1.8 million.
+  - Kenny Troutt: Telecommunications mogul; donated over $1.8 million.
+  - Robert Duggan: Biotech investor; donated over $1.6 million.
+  - Steve Wynn: Casino magnate; contributed over $1.5 million.
+  - Diane Hendricks: Owner of ABC Supply; donated over $1.1 million.
 
 Aftermath and Post-Insurrection Reactions
 Following the events at the Capitol, the public and media reaction from the donor class varied widely:
