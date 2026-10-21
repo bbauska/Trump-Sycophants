@@ -1,17 +1,20 @@
-/* ./css/styles.css of bbauska/Trump-Sycophants for sycophants.bauska.org */
-@import url('https://fonts.googleapis.com/css?family=Stalemate');
+/* ./css/style.css of Trump-Sycophants for sycophants.bauska.org */
+@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&display=swap');
 *, *:before, *:after {
   box-sizing: border-box;
 }
-
 img {
   max-width: 100%;
 }
 body {
-  background:  linear-gradient(
-  rgba(255, 255, 255, 0.9), 
-  rgba(255, 255, 255, 0.9)), url(../images/Vintage_Floral.jpg?raw=true);
-  font-family: 'Stalemate', cursive;
+  background:  linear-gradient (
+    rgba(255, 255, 255, 0.9), 
+    rgba(255, 255, 255, 0.9)), 
+	url(./images/Vintage_Floral.jpg?raw=true);
+  font-family: cursive, 'Monsieur La Doulaise', 'Stalemate';
+}
+p {
+  font-size: 10px;
 }
 
 .container {
@@ -21,11 +24,10 @@ body {
 .book-wrapper {
   position: relative;
   margin: 2% auto;
-  width: 670px;  /* 1340px, 1440px; first: 670px; */
+  width: 670px;
 }
-
 .book-wrapper img {
-  filter: drop-shadow(15px 5px 5px #494338);  /* Very dark grayish orange */
+  filter: drop-shadow(15px 5px 5px #494338);  /* 15px 5px 5px Very dark grayish orange */
 }
 .pages-container {
   position: absolute;
@@ -36,16 +38,14 @@ body {
   width: 91.5%;
   height: 91%;
 }
-
 .pages {
+
 }
 .pages [class^="page-num-"] {
-  background-image: url(../images/Paper_Texture_v5_by_Bashcorpo.jpg?raw=true);
-/*  url(https://github.com/bbauska/page-turning-WIP/blob/main/images/Paper_Texture_v5_by_Bashcorpo.jpg); */
+  background-image: url(./images/Paper_Texture.jpg?raw=true);
   background-size: auto 100%;
   position: relative;
 }
-
 .pages-content {
   text-align: center;
   position: absolute;
@@ -56,21 +56,19 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-  padding: 10%;
+  padding: 5%;  /* 10%; */
 }
-
 .content-inner {
   text-align: center;
   display: table-cell;
   vertical-align: middle;
 }
-
 .book-wrapper {
   user-select: none;
 }
-
 .page-num-1 .pages-background {
-  background: linear-gradient( rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url(../images/Vintage_Floral.jpg?raw=true);
+  background: linear-gradient( rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), 
+    url(./images/Vintage_Floral.jpg?raw=true);
   background-size: cover;
   opacity: 0.2;
   width: 100%;
