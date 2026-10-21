@@ -1,7 +1,7 @@
 {
   "name": "Trump/MAGA Sycophants",
   "short_name": "Sycophants", 
-  "start_url": "sycophants.bauska.org",
+  "start_url": "/",
   "display": "standalone",
   "icons": [
     {
